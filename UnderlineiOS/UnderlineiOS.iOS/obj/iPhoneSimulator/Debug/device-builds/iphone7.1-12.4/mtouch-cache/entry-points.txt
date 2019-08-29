@@ -45,6 +45,8 @@ Function=SystemNative_UTimes
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
 Function=SystemNative_Unlink
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_timezone_get_names
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_timezone_get_data
@@ -55,6 +57,8 @@ Function=xamarin_log
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_get_locale_country_code
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.Core.dll
 Function=NetSecurityNative_ReleaseGssBuffer
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.dll
 Function=NetSecurityNative_DisplayMinorStatus
@@ -86,6 +90,28 @@ Function=NetSecurityNative_Unwrap
 Function=xamarin_start_wwan
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.dll
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=BrotliDecoderCreateInstance
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/System.IO.Compression.dll
 Function=xamarin_find_protocol_wrapper_type
 	/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_release_block_on_main_thread

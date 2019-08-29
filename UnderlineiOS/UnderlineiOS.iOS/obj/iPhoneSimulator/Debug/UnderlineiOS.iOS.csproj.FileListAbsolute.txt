@@ -53,7 +53,6 @@
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/optimized/user.png
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-12.4/optimized/
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/UnderlineiOS.iOS.csprojAssemblyReference.cache
-/Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/UnderlineiOS.iOS.csproj.CoreCompileInputs.cache
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/UnderlineiOS.iOS.csproj.CopyComplete
 /Users/carlosdiaz/TabbedPage-xamarin-Forms-iOS/UnderlineiOS/UnderlineiOS.iOS/obj/iPhoneSimulator/Debug/UnderlineiOS.iOS.exe

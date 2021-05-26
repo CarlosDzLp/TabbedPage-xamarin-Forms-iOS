@@ -1,28 +1,21 @@
 ﻿<Properties StartupConfiguration="{6A273F22-D22D-4A77-954B-4B582D560FD0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnderlineiOS/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderlineiOS.iOS/UnderLineRenderer.cs">
     <Files>
-      <File FileName="UnderlineiOS/MainPage.xaml" Line="19" Column="25" />
-      <File FileName="UnderlineiOS.iOS/UnderLineRenderer.cs" Line="57" Column="6" />
-      <File FileName="UnderlineiOS/MainPage.xaml.cs" Line="14" Column="53" />
-      <File FileName="UnderlineiOS/CustomTabbedPage.cs" Line="52" Column="10" />
+      <File FileName="UnderlineiOS.iOS/UnderLineRenderer.cs" Line="69" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UnderlineiOS" expanded="True">
-            <Node name="UnderlineiOS" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            <Node name="UnderlineiOS.iOS" expanded="True">
+              <Node name="UnderLineRenderer.cs" selected="True" />
             </Node>
-            <Node name="UnderlineiOS.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.UnderlineiOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FFD68AD6-048B-46D3-94E2-E1F695423974" />
+  <MonoDevelop.Ide.ItemProperties.UnderlineiOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C83F0FAB-C925-4DEF-83FD-C5575A46137E" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

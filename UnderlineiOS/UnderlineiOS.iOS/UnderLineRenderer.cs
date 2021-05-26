@@ -20,6 +20,7 @@ namespace UnderlineiOS.iOS
             tab = (CustomTabbedPage)e.NewElement;
             
         }
+
         public override void ViewWillAppear(bool animated)
         {
             if (base.ViewControllers != null)
@@ -32,6 +33,7 @@ namespace UnderlineiOS.iOS
             UnselectedTitleColor();
             base.ViewWillAppear(animated);
         }
+
         UIImage UndeLineColorPosition(UIColor color, CGSize size, CGSize lineSize)
         {
             var rect = new CGRect(0, 0, size.Width, size.Height);
@@ -44,14 +46,22 @@ namespace UnderlineiOS.iOS
             UIGraphics.EndImageContext();
             return img;
         }
+
         private void UnselectedTitleColor()
         {
             for (int i = 0; i < TabBar.Items.Length; i++)
             {
-                TabBar.Items[i].SetTitleTextAttributes(new UITextAttributes { TextColor = tab.TitleColorUnSelected.ToUIColor() },
+                TabBar.Items[i].SetTitleTextAttributes(
+                    new UITextAttributes
+                    {
+                        TextColor = tab.TitleColorUnSelected.ToUIColor(),
+                    },
                     UIControlState.Normal);
                 TabBar.Items[i].SetTitleTextAttributes(new UITextAttributes { TextColor = tab.SelectedTabColor.ToUIColor(), },
                     UIControlState.Selected);
+
+                //QUITA EL TITULO DE LA TABBEDPAGE
+                TabBar.Items[i].TitlePositionAdjustment= new UIOffset(0, 50);
             }
         }
     }

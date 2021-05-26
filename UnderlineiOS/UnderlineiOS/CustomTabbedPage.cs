@@ -16,6 +16,7 @@ namespace UnderlineiOS
                 null,
                 null,
                 null);
+
         public Color UnderLineIndicatorColor
         {
             get
@@ -39,6 +40,7 @@ namespace UnderlineiOS
                 null,
                 null,
                 null);
+
         public Color TitleColorUnSelected
         {
             get
